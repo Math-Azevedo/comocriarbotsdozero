@@ -1,0 +1,3 @@
+PyAutoGUI - Encontrar e interagir com elementos na tela, com base em sua coordenada
+
+POSIÇÃO(x,y) 
